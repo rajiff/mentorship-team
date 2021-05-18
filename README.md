@@ -1,2 +1,2 @@
-# mentorship-team
-Mentorship Team Repo
+# Node.js Mentorship Program
+Mentorship program is a opportunity to understand NodeJS better, especially basis how it solve the problem of performance and provide solution to scale issues. NodeJS is already a great tool to solve many application scenarios, want to learn to implement applications even better and consistent way. Introduce new tools or frameworks to use NodeJS better by novice developer to exper programmer alike (whic i feel currently missing)
